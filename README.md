@@ -1,5 +1,5 @@
 #     Student Information Management System Using Django
-## Welcome to [Student Information Management System]!
+## Welcome to [Student Information Management System]
 
 ## Team Members
 
